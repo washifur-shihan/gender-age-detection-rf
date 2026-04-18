@@ -7,3 +7,4 @@ pandas
 joblib
 python-multipart
 pillow
+jinja2
