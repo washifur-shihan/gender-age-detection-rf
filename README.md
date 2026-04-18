@@ -3,11 +3,15 @@
 🌐 **Live Demo:**
 👉 https://gender-age-detection-rf.onrender.com
 
+🌐 **Image Dataset Link:**
+https://www.kaggle.com/datasets/jangedoo/utkface-new
+
+Download Zip and copy only from UTKFace folder images to data/raw if you want to run the model yourself.
 ---
 
 ## 📌 Project Overview
 
-This is a beginner-friendly **Computer Vision + Machine Learning** project that predicts:
+This is a **Computer Vision + Machine Learning** project that predicts:
 
 * 👤 **Gender** (Male / Female)
 * 🎂 **Age Range** (e.g., 1–10, 10–20, 20–30, etc.)
